@@ -1,0 +1,16 @@
+{
+  "translation": "gui.my_id.text.my_dimension",
+  "galaxy": "ad_astra:milky_way",
+  "solar_system": "ad_astra:solar_system",
+  "world": "jump:jump/overworld_8",
+  "orbit_world": "my_id:my_dimension_orbit",
+  "rocket_tier": 1,
+  "gravity": 9.806,
+  "has_atmosphere": true,
+  "days_in_year": 365,
+  "temperature": 15,
+  "solar_power": 13,
+  "orbit_solar_power": 15,
+  "has_oxygen": true,
+  "button_color": "green"
+}

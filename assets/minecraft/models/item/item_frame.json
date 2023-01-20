@@ -1,0 +1,15 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/item_frame"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 777777}, "model": "item/lucky_block"},
+  { "predicate": {"custom_model_data": 777778}, "model": "item/ruby_ore"},
+  { "predicate": {"custom_model_data": 777779}, "model": "item/ruby_block"}
+
+ ]
+
+ 
+}
