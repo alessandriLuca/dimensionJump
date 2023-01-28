@@ -1,3 +1,4 @@
 # dimensionJump
-
+This datapack is about dimensions! Bored of making a portal, going trough a dimension? Dont worry! If the mountain will not come to Mohammed, Mohammed will go to the mountain. You will soon find out that anytime you will be teleported in another dimension... and you have no way to go back to the previous one!! You think you lost everything? We got you covered! In each dimensions there are specific material that can stabilize an area, so you can transport even a huge area with you trough the dimensions! And yeah you can eventually stabilize the connection between the dimension but at what cost? To find out a very evil plot from super weird villain. Enjoy! 
+Still a work in progress
 ![alt text](https://github.com/alessandriLuca/dimensionJump/blob/main/photo_2023-01-27_18-59-59.jpg)
